@@ -1,0 +1,13 @@
+{
+"companyName": "Meshens",
+"productName": "cubes of boredom",
+"dataUrl": "cubesofboredom.data.unityweb",
+"asmCodeUrl": "cubesofboredom.asm.code.unityweb",
+"asmMemoryUrl": "cubesofboredom.asm.memory.unityweb",
+"asmFrameworkUrl": "cubesofboredom.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080"
+}
